@@ -1,0 +1,13 @@
+Shortforms:
+(i)DRY:Dont repeat yourself
+(ii)Check the downloaded version of the shortforms mam gave you.
+(iii)PWD:present working directory.
+(iv)CD:change directory.
+(v)MKDIR:make directory
+(vi)LS:list
+(vii)M:message
+(viii)U:username
+(ix)clone:It is used to clone one repository to the given name of the other repository.
+(x)API:Application programming Interface.
+(xi)JSON:Javascript Object Notation.
+(xii)OOPs:object oriented programming.
