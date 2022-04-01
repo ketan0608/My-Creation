@@ -11,3 +11,10 @@ Shortforms:
 (x)API:Application programming Interface.
 (xi)JSON:Javascript Object Notation.
 (xii)OOPs:object oriented programming.
+(xiii)os.mkdir('path')
+(xiv)os.getcwd()
+(xv)os.path.exists('pathName')
+(xvi)os.path.splitext('path')
+(xvii)os.listdir()
+(xviii)shutil.copy('source','destination')
+(xix)shutil.move('source','destination')
